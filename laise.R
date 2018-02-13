@@ -1,1 +1,1 @@
-laise et amo
+a = 'laise eu te amo'
