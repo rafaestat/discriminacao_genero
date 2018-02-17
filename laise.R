@@ -1,1 +1,0 @@
-a = 'laise eu te amo'
