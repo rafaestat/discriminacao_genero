@@ -4,12 +4,15 @@ author: "Rafael Ribeiro"
 date: "13 de fevereiro de 2018"
 output: html_document
 ---
-
-
+# INTRODUÇÃO
+## INTRODUÇÃO
 ### INTRODUÇÃO
 
-O fato de a diferença salarial entre os sexos existir é nítido e comprovado em diversos estudos realizados na área econômica. Mulheres com o mesmo nível de escolaridade, cargo e experiência recebem menor remuneração salarial que homens, sendo que isso ocorre de forma persistente em vários países e setores industriais. O tema central deste estudo é medir o impacto desta discriminação no crescimento econômico dos municípios, ou seja, se a discriminação salarial entre homens e mulheres pode implicar em impactos positivos ou negativos na economia dos municípios brasileiros.
+O fato de a *diferença* salarial entre os sexos existir é nítido e comprovado em diversos estudos realizados na área econômica. Mulheres com o mesmo nível de escolaridade, cargo e experiência recebem menor remuneração salarial que homens, sendo que isso ocorre de forma persistente em vários países e setores industriais. O tema central deste estudo é medir o impacto desta discriminação no crescimento econômico dos municípios, ou seja, se a discriminação salarial entre homens e mulheres pode implicar em impactos positivos ou negativos na economia dos municípios brasileiros.
 
+```{r}
+hist(rnorm(30))
+```
 
 ### METODOLOGIA
 
